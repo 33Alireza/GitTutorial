@@ -1,1 +1,1 @@
-console.log("Welcome to git tutorial");
+var lolo = 8 / 0
