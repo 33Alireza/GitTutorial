@@ -1,1 +1,1 @@
-var number = 8 / 0
+var number = 8 / 2
