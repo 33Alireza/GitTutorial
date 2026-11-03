@@ -1,1 +1,1 @@
-var lolo = 8 / 0
+var number = 8 / 0
